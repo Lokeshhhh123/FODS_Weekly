@@ -38,7 +38,7 @@
 
 """6) WAP print your name left justified 15 spaces """
 
-# print("Lokesh".ljust(15))
+#print("Lokesh".ljust(15))
 
 """7) WAP to print the value of PI to 5 decimal places """
 
